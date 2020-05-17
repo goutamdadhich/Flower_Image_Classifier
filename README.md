@@ -1,2 +1,5 @@
 # Flower_Image_Classifier
-Flower Image Classifier, Build on Pytorch Neural Network
+ * By **Goutam Dadhich**
+Flower Image Classifier, Build with Pytorch Neural Network
+
+Project for Deep Learning Section of **Machine Learning Introduction with PyTorch Nanodegree** of Udacity.
